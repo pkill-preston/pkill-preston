@@ -1,8 +1,9 @@
 ### Hi there 👋
  <div align=center>
   <a href="https://github.com/pkill-preston">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pkill-preston&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkill-preston&layout=compact&langs_count=16&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkill-preston&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    &nbsp; &nbsp; &nbsp; 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkill-preston&layout=compact&langs_count=16&theme=github_dark&include_all_commits=true&count_private=true"/>
  </a>
 </div>
 
