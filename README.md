@@ -17,8 +17,8 @@
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <!--<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">-->
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <!--<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  </a>
 </div>
